@@ -7,7 +7,7 @@ I'm a **Junior Front-End Developer**, excited to keep growing and learning every
 - 📫 Contact: dgscriptdev@gmail.com
 
 ### My current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,sass)](https://github.com/dgscript)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,sass,git)](https://github.com/dgscript)
 
 
 ### Some of my favorite Projects
